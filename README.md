@@ -33,7 +33,7 @@
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Number `](https://wa.me/+919947291867)
-* [`WhatsApp Group `](https://chat.whatsapp.com/I1xiHrlbW6X2Y7s1DzBLz4)
+* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`SPARROW`]
