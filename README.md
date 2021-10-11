@@ -7,10 +7,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sparroo/jarviscolor=red&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sparroo/jarvis?color=red&style=flat-square"></a>
-<a href="https://github.com/sparroo/jarvis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sparroo/jarvis?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sparroo%2Fjarvis&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/sparroo/jarvis/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sparroo/jarvisv3?color=red&style=flat-square"></a>
+<a href="https://github.com/sparroo/jarvis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sparroo/jarvisv3?color=red&style=flat-square"></a>
+<a href="https://github.com/sparroo/jarvis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sparroo/jarvisv3?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sparroo/jarvisv3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 </details>
 
