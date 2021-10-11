@@ -23,7 +23,7 @@
 > apt update && apt upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/sparroo/jarvisv2
+> git clone https://github.com/sparroo/jarvisv3
 > cd jarvis
 > bash install.sh
 > npm start
