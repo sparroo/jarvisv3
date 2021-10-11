@@ -14,11 +14,11 @@
 </p>
 </details>
 
-### THANKS TO SPARROW
+## THANKS TO SPARROW
 
-### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+# CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
-# Via [`Termux `](https://f-droid.org/packages/com.termux/)
+### Via [`Termux `](https://f-droid.org/packages/com.termux/)
 ```bash
 > Download termux app
 > termux-setup-storage
