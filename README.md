@@ -18,7 +18,7 @@
 
 ### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
-##Termux
+###Termux
 ```bash
 > Download termux app
 > termux-setup-storage
