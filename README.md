@@ -46,6 +46,7 @@
 > ENJOY
 ```
 
+### Even though heroku is available, I still recommend using termux for best results.
 
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
