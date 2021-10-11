@@ -18,7 +18,7 @@
 
 ### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
-# Termux
+# Via [`Termux `](https://f-droid.org/packages/com.termux/)
 ```bash
 > Download termux app
 > termux-setup-storage
