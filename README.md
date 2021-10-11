@@ -32,6 +32,21 @@
 > SCAN THE QR CODE
 ```
 
+### Via [`Heroku `](https://www.heroku.com)
+```bash
+> Fork this repostry to your github.
+> Add a session.json file.
+> Create a heroku account or login.
+> Create a new app.
+> Click the github icon.
+> Connect to your github account.
+> Deploy branch.
+> Start the worker or web. If you cant find a worker just refresh the page.
+> If error occurs click on new icon in the top left corner. Select run console and type node index.
+> ENJOY
+```
+
+
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Number `](https://wa.me/+919947291867)
