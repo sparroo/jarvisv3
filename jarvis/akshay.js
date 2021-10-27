@@ -1,6 +1,6 @@
 const petik = '```'
 
-const dtod = "919947291867@s.whatsapp.net"
+const dtod = "918089847647@s.whatsapp.net"
 const help = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss) => {
 	return`
 ┌───〔 ɪɴғᴏʀᴍᴀᴛɪᴏɴ 〕
