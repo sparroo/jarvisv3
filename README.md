@@ -32,6 +32,28 @@
 > SCAN THE QR CODE
 ```
 
+### Via [`RDP/VPS`]
+```bash
+> Download node.js (https://nodejs.org/en/)
+> Download FFMPEG (https://github.com/KurrXd/BAHANBOTRDP)
+> Download lipwebp (https://github.com/KurrXd/BAHANBOTRDP)
+> After downloading the following applications
+> Extract FFMPEG and Libwebp
+> Paste the Extracted FFMPEG and Libwebp to LOCAL DISK C/Program Files
+> Rename the extracted file to 'ffmpeg' and Libwep to `libwebp´
+> Then Go to System Environment variables on your RDP control Panel settings.
+> Add new path of ffmpeg and libwebp
+> Then Save
+> Install the downloaded node js
+> After installation Search Node.js command prompt in windows
+> Then download the Jarvis bot script from Github
+> And extract to downloads
+> then open node.js command prompt type cd downloads and click enter
+> cd jarvisv3
+> npm start or node index.js
+> Then scan QR code and Enjoy ❤️
+
+
 ### Via [`Heroku `](https://www.heroku.com)
 ```bash
 > Fork this repostry to your github.
@@ -46,7 +68,7 @@
 > ENJOY
 ```
 
-### Even though heroku is available, I still recommend using termux for better results.
+### Even though heroku is available, I still recommend using termux or RDP/VPS (windows) for better results.
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
